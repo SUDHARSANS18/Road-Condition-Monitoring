@@ -1,0 +1,7 @@
+{
+  "name": "Road Condition Monitoring",
+  "description": "An advanced AI-powered system for real-time infrastructure and traffic monitoring using Google Maps grounding and search intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
